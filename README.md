@@ -1,9 +1,9 @@
 # blog-literario
-# O projeto reúne meu interesse por literatura e tecnologia. O texto “Pandora” foi o ponto de partida para construir um espaço com identidade própria, voltado à publicação e leitura de textos autorais.
+# O projeto reúne meu interesse por literatura e tecnologia. 
 
 [Acessar o blog](https://73efe58357b64c6d9277a615720ad50a.prod.enterapp.pro)
 
-# O blog foi desenvolvido com auxílio do Lovable e de inteligência artificial. 
+# O blog foi desenvolvido com auxílio da plataforma Enter e inteligência artificial. 
 # Minha participação envolveu a definição da proposta, a escolha da identidade visual, a criação dos textos, as solicitações de ajustes e os testes de publicação.
 # Sou estudante de Análise e Desenvolvimento de Sistemas e Segurança Cibernética. Este projeto faz parte do meu aprendizado e continuará evoluindo conforme eu aprofundar meus conhecimentos.
 
